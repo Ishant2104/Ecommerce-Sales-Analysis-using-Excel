@@ -39,18 +39,23 @@ This dashboard provides a complete sales analysis including monthly trends, cate
   <img width="957" height="424" alt="image" src="https://github.com/user-attachments/assets/f425a094-46ff-49c8-8657-9ea632732c21" />
 
 - Category-wise Profit (Waterfall Chart)
+  
   <img width="674" height="533" alt="image" src="https://github.com/user-attachments/assets/35800f1c-2039-404b-9d9f-2523b7805ce6" />
 
 - Sales Share by Category (Donut Chart)
+  
   <img width="575" height="304" alt="image" src="https://github.com/user-attachments/assets/24e56e16-b717-4678-967e-0dcaf92d7997" />
 
 - State-wise Sales Map
+  
   <img width="717" height="812" alt="image" src="https://github.com/user-attachments/assets/b36dce1f-81bc-4abf-9688-0eb71f91d269" />
 
 - Top 5 Sub-Categories by Sales
+  
   <img width="699" height="265" alt="image" src="https://github.com/user-attachments/assets/ea6a031c-7226-4eaf-a3b6-6a09cbd44776" />
 
 - Interactive filters: **Year**, **Segment**, **Region**
+  
 <img width="377" height="318" alt="image" src="https://github.com/user-attachments/assets/d0422bc9-78a1-4712-875f-2cad7185e542" />
 
 ---
