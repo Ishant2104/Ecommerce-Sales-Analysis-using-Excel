@@ -1,6 +1,6 @@
 # 📊 Ecommerce Sales Analysis Dashboard
 
-An dynamic interactive Excel dashboard designed to analyze and visualize e-commerce sales performance using **Pivot Tables**, **Pivot Charts**, **Slicers**, and dynamic KPIs. This project showcases Excel-based business intelligence and reporting skills.
+A dynamic interactive Excel dashboard designed to analyze and visualize e-commerce sales performance using **Pivot Tables**, **Pivot Charts**, **Slicers**, and dynamic KPIs. This project showcases Excel-based business intelligence and reporting skills.
 ## 📸 Dashboard Preview
 <img width="1431" height="954" alt="image" src="https://github.com/user-attachments/assets/1fcf5a31-b28e-4b5f-ab8a-56a24ce8bf73" />
 
