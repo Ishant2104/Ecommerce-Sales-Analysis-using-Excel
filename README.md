@@ -89,6 +89,3 @@ This dashboard provides a complete sales analysis including monthly trends, cate
    - **Segment**  
    - **Region**  
 4. Explore KPI cards and visual charts for insights.
-
-```md
-![Dashboard Preview](images/dashboard_preview.png)
